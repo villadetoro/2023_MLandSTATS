@@ -7,4 +7,6 @@ CP11 Neural Network Regression (LHCb app)
 CP13 Neural Network Classi cation (ATLAS app)
 CP14 Gradient Boosted Regression Trees (TITUS app)
 
+Report: Exotic searches with ATLAS and ML classification: fitting and hypothesis-testing, NN classifier.
+
 * Prof C Leonidopoulos part of the DAML course *
